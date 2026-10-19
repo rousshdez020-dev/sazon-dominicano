@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 640" role="img" aria-labelledby="title desc">
+  <title id="title">Mofongo de la casa</title>
+  <desc id="desc">Mofongo de plátano con ajo y chicharrón acompañado de un pequeño tazón de caldo.</desc>
+  <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#e5b388"/><stop offset="1" stop-color="#bf7656"/></linearGradient><linearGradient id="plate" x2="0" y2="1"><stop stop-color="#fffaf1"/><stop offset="1" stop-color="#e9d7c0"/></linearGradient><filter id="s"><feDropShadow dx="0" dy="14" stdDeviation="14" flood-color="#5f3525" flood-opacity=".23"/></filter></defs>
+  <rect width="680" height="640" fill="url(#bg)"/><path d="M0 490c151-65 300-58 680 0v150H0Z" fill="#b76e4e" opacity=".32"/><circle cx="563" cy="93" r="100" fill="#f2d597" opacity=".24"/>
+  <g filter="url(#s)"><ellipse cx="305" cy="370" rx="240" ry="178" fill="#613b2c" opacity=".22"/><ellipse cx="305" cy="352" rx="240" ry="178" fill="url(#plate)"/><ellipse cx="305" cy="350" rx="197" ry="139" fill="#f4eadb"/>
+    <path d="M189 361c-2-71 48-130 116-140 72-11 137 42 140 111 3 70-47 126-121 132-71 6-133-38-135-103Z" fill="#d39a44"/><path d="M206 355c13-44 59-77 104-77 43 0 75 23 91 55-19 54-58 86-113 89-40 2-72-22-82-67Z" fill="#e0b25d"/>
+    <path d="M240 289c18-18 44-27 69-24 17 2 28 13 25 27-5 20-36 34-67 30-29-4-44-18-27-33Z" fill="#a75d35"/><circle cx="262" cy="286" r="11" fill="#f0d189"/><circle cx="290" cy="278" r="8" fill="#f0d189"/><circle cx="318" cy="288" r="9" fill="#f0d189"/>
+    <path d="M230 397c27-19 60-18 83 2 14 12 11 30-8 39-27 13-65 4-78-17-6-9-5-17 3-24Z" fill="#a54c34"/><path d="M341 390c27-24 63-27 88-5 15 14 12 33-8 43-26 14-64 7-80-15-6-8-6-16 0-23Z" fill="#b85d39"/><path d="M257 422c17-12 41-13 57-1" fill="none" stroke="#d78b4e" stroke-width="8" stroke-linecap="round"/><path d="M362 418c16-13 39-15 55-5" fill="none" stroke="#df9b53" stroke-width="7" stroke-linecap="round"/>
+    <g fill="#4f743f"><path d="M363 245c-4-24 9-41 33-43 1 21-10 35-33 43Z"/><path d="M383 249c9-20 27-28 49-20-10 17-27 25-49 20Z"/><path d="M344 254c-19-15-22-35-8-53 17 15 22 32 8 53Z"/></g>
+  </g>
+  <g filter="url(#s)"><ellipse cx="530" cy="472" rx="84" ry="61" fill="#59402e" opacity=".2"/><path d="M454 440c0-31 34-54 76-54s76 23 76 54v17c0 39-34 68-76 68s-76-29-76-68Z" fill="#fff9eb"/><ellipse cx="530" cy="439" rx="76" ry="39" fill="#eee0c9"/><ellipse cx="530" cy="436" rx="59" ry="27" fill="#b35c3e"/><circle cx="512" cy="432" r="7" fill="#e8b866"/><circle cx="539" cy="442" r="6" fill="#e2ae59"/><path d="M520 408c4-14 17-21 31-16-4 13-15 19-31 16Z" fill="#5d7d42"/></g>
+</svg>

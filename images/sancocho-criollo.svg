@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 640" role="img" aria-labelledby="title desc">
+  <title id="title">Sancocho criollo</title>
+  <desc id="desc">Tazón de sancocho dorado con víveres, cilantro y aguacate.</desc>
+  <defs><linearGradient id="bg" x2="0" y2="1"><stop stop-color="#c6d0a0"/><stop offset="1" stop-color="#8f9e69"/></linearGradient><linearGradient id="bowl" x2="0" y2="1"><stop stop-color="#fff8e9"/><stop offset="1" stop-color="#dfc8a4"/></linearGradient><linearGradient id="soup" x2="0" y2="1"><stop stop-color="#e9ba5f"/><stop offset="1" stop-color="#bc7139"/></linearGradient><filter id="s"><feDropShadow dx="0" dy="14" stdDeviation="14" flood-color="#3b422b" flood-opacity=".25"/></filter></defs>
+  <rect width="680" height="640" fill="url(#bg)"/><circle cx="82" cy="104" r="120" fill="#f1d892" opacity=".22"/><circle cx="625" cy="521" r="143" fill="#526b3f" opacity=".18"/>
+  <g filter="url(#s)"><ellipse cx="340" cy="360" rx="245" ry="194" fill="#4b472e" opacity=".2"/><path d="M98 270c0-82 108-145 242-145s242 63 242 145v53c0 119-108 194-242 194S98 442 98 323Z" fill="url(#bowl)"/><ellipse cx="340" cy="268" rx="242" ry="142" fill="#faf1df"/><ellipse cx="340" cy="263" rx="204" ry="111" fill="url(#soup)"/>
+    <path d="M180 258c25-31 66-37 98-16 14 10 18 29 7 43-17 21-57 28-87 14-22-10-32-26-18-41Z" fill="#e5cf89"/><path d="M246 216c17-24 51-31 72-14 17 13 17 35-1 47-19 13-53 11-70-5-9-9-9-18-1-28Z" fill="#d7bd75"/><path d="M353 226c16-29 49-40 75-26 24 13 25 42 0 58-23 14-59 9-73-12-5-7-6-14-2-20Z" fill="#d9bf78"/><path d="M380 294c18-24 53-31 77-13 21 16 18 42-5 55-25 13-60 5-72-17-5-9-5-17 0-25Z" fill="#f0d28b"/><path d="M261 299c23-21 55-25 78-8 18 13 14 36-7 47-25 13-58 6-72-15-5-8-5-16 1-24Z" fill="#bf5d3c"/><path d="M179 292c17-10 34-8 46 4 12 14 5 31-13 36-18 6-37-4-40-19-1-8 1-15 7-21Z" fill="#735c39"/>
+    <path d="M286 165c-8-27 8-50 37-55 5 24-6 43-37 55Z" fill="#506c3e"/><path d="M306 168c8-25 29-37 54-31-9 21-27 34-54 31Z" fill="#789151"/><path d="M331 169c19-18 43-19 62-3-17 16-39 20-62 3Z" fill="#52703e"/>
+    <path d="M466 182c18-22 46-29 69-15-13 21-37 29-69 15Z" fill="#6d7e45"/>
+  </g>
+  <path d="M189 511c74 35 228 42 302 0" fill="none" stroke="#fff2d8" stroke-width="6" opacity=".55"/>
+</svg>

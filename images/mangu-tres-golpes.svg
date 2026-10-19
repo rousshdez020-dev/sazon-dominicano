@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 640" role="img" aria-labelledby="title desc">
+  <title id="title">Mangú con los tres golpes</title>
+  <desc id="desc">Ilustración de un plato de mangú servido con queso frito, salami, huevo y cebolla.</desc>
+  <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#f1d89c"/><stop offset="1" stop-color="#e2ad64"/></linearGradient><linearGradient id="dish" x2="0" y2="1"><stop stop-color="#fffdf4"/><stop offset="1" stop-color="#e9dcc8"/></linearGradient><filter id="s"><feDropShadow dx="0" dy="13" stdDeviation="14" flood-color="#653b23" flood-opacity=".22"/></filter></defs>
+  <rect width="680" height="640" fill="url(#bg)"/><path d="M0 80h680M0 560h680" stroke="#c9874a" stroke-width="6" opacity=".25"/>
+  <g filter="url(#s)"><ellipse cx="340" cy="345" rx="248" ry="205" fill="#76462f" opacity=".2"/><ellipse cx="340" cy="328" rx="248" ry="205" fill="url(#dish)"/><ellipse cx="340" cy="326" rx="208" ry="167" fill="#f7efdf"/>
+    <path d="M164 312c34-78 135-104 224-67 57 23 83 82 58 132-31 62-141 82-226 44-58-26-81-66-56-109Z" fill="#e3bd62"/>
+    <path d="M180 310c56-45 154-64 238-38-30 30-71 54-128 70-48 13-90 3-110-32Z" fill="#f0d885"/>
+    <path d="M392 234c45-23 100-5 115 36 13 35-11 68-47 72-31 3-58-20-60-53-1-20-4-38-8-55Z" fill="#fffdf2"/><circle cx="453" cy="283" r="27" fill="#e7a743"/><circle cx="462" cy="274" r="7" fill="#f6d176"/>
+    <path d="M193 400c17-42 61-66 102-55 25 7 39 31 27 54-16 29-66 43-104 30-22-8-33-17-25-29Z" fill="#d27c3c"/><path d="M201 396c26-22 63-31 94-23-17 13-43 27-77 35Z" fill="#efaa59"/>
+    <path d="M323 438c23-36 62-50 96-37 25 10 34 35 18 53-18 20-63 22-95 7-19-9-27-15-19-23Z" fill="#a34e37"/><path d="M347 426c20-15 42-19 67-14" fill="none" stroke="#d7864c" stroke-width="8" stroke-linecap="round"/>
+    <path d="M213 242c15-25 34-42 58-49M226 255c16-21 34-33 55-39" fill="none" stroke="#b64736" stroke-width="8" stroke-linecap="round"/><circle cx="242" cy="229" r="9" fill="#f5e6bf"/><circle cx="264" cy="218" r="8" fill="#f5e6bf"/>
+  </g>
+  <g fill="#536f40"><path d="M520 435c-9-28 4-51 32-58 1 25-9 45-32 58Z"/><path d="M533 445c6-26 25-40 52-37-8 23-26 37-52 37Z"/></g>
+</svg>
