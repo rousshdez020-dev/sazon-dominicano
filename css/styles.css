@@ -759,9 +759,9 @@ h2 {
   }
 
   .essence-stamp {
-    position: absolute;
-    right: 0;
-    bottom: 3px;
+    position: static;
+    justify-self: start;
+    margin-top: 0;
     width: 104px;
     height: 104px;
     font-size: 7px;
